@@ -24,7 +24,7 @@
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
-###About The Project
+## About The Project
 
 Parrotque is a web app for tracking your parrot's health and providing resource suggestions.
 
@@ -82,7 +82,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 
-Please review the [CONTRIBUTING.MD]() before starting a pull request. 
+Please review the [CONTRIBUTING.MD](https://github.com/CSSG-Labs/Parrotque/blob/main/CONTRIBUTING.md) before starting a pull request. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
