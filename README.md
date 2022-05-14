@@ -24,7 +24,7 @@
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
-### About The Project
+## About The Project
 
 Parrotque is a web app for tracking your parrot's health and providing resource suggestions.
 
@@ -34,22 +34,16 @@ Parrotque is a web app for tracking your parrot's health and providing resource 
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
+
 * [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+*
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+underconstruction
 
 ### Prerequisites
 
@@ -87,6 +81,8 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+
+Please review the [CONTRIBUTING.MD]() before starting a pull request. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -106,4 +102,5 @@ Contact andromedamoon on github or discord andromedamoon#8634
 Project Link: [https://github.com/CSSG-Labs/Parrotque](https://github.com/CSSG-Labs/Parrotque)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
