@@ -24,8 +24,7 @@
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
+### About the Project
 Parrotque is a web app for tracking your parrot's health and providing resource suggestions.
 
 
